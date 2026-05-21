@@ -19,4 +19,4 @@ The engine processes objectives through a rigorous, linear phase-gating loop to 
 ## 🛠️ Tech Stack
 * **Backend Architecture:** Python (Multithreaded Execution Management, Base HTTP Request Mapping, JSON State Infrastructure)
 * **Frontend Controller:** HTML5, Tailwind CSS, Native JavaScript (Async UI Telemetry Polling & API Stream Handlers)
-* 
+* https://github.com/paka2002/ProactiveAI/blob/ed91eff3b3b51f38667d84cc41b20158d0d6b880/Screenshot_20260522-034023.png
